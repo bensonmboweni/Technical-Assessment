@@ -1,0 +1,15 @@
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\bin\Debug\net6.0\Assessment.DataAccess.deps.json
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\bin\Debug\net6.0\Assessment.DataAccess.dll
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\bin\Debug\net6.0\Assessment.DataAccess.pdb
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\bin\Debug\net6.0\Assessment.Models.dll
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\bin\Debug\net6.0\Assessment.Models.pdb
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\Assessment.DataAccess.csproj.AssemblyReference.cache
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\Assessment.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\Assessment.DataAccess.AssemblyInfoInputs.cache
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\Assessment.DataAccess.AssemblyInfo.cs
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\Assessment.DataAccess.csproj.CoreCompileInputs.cache
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\Assessment.DataAccess.csproj.CopyComplete
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\Assessment.DataAccess.dll
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\refint\Assessment.DataAccess.dll
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\Assessment.DataAccess.pdb
+D:\Technical Assessment\Assessment.API\Assessment.DataAccess\obj\Debug\net6.0\ref\Assessment.DataAccess.dll

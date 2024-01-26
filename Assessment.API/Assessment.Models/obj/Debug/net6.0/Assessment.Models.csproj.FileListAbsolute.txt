@@ -1,0 +1,11 @@
+D:\Technical Assessment\Assessment.API\Assessment.Models\bin\Debug\net6.0\Assessment.Models.deps.json
+D:\Technical Assessment\Assessment.API\Assessment.Models\bin\Debug\net6.0\Assessment.Models.dll
+D:\Technical Assessment\Assessment.API\Assessment.Models\bin\Debug\net6.0\Assessment.Models.pdb
+D:\Technical Assessment\Assessment.API\Assessment.Models\obj\Debug\net6.0\Assessment.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Assessment\Assessment.API\Assessment.Models\obj\Debug\net6.0\Assessment.Models.AssemblyInfoInputs.cache
+D:\Technical Assessment\Assessment.API\Assessment.Models\obj\Debug\net6.0\Assessment.Models.AssemblyInfo.cs
+D:\Technical Assessment\Assessment.API\Assessment.Models\obj\Debug\net6.0\Assessment.Models.csproj.CoreCompileInputs.cache
+D:\Technical Assessment\Assessment.API\Assessment.Models\obj\Debug\net6.0\Assessment.Models.dll
+D:\Technical Assessment\Assessment.API\Assessment.Models\obj\Debug\net6.0\refint\Assessment.Models.dll
+D:\Technical Assessment\Assessment.API\Assessment.Models\obj\Debug\net6.0\Assessment.Models.pdb
+D:\Technical Assessment\Assessment.API\Assessment.Models\obj\Debug\net6.0\ref\Assessment.Models.dll
